@@ -6,6 +6,7 @@ body {
   color: var(--black);
 }
 
+/* this was already correcrt */
 .header,
 .section,
 .aside {
